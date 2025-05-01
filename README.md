@@ -1,7 +1,6 @@
 # Billboard to Spotify Playlist Creator
 
-This script creates a Spotify playlist of Billboard's Hot 100 songs from any date since 1958.
-
+This Python script allows users to automatically generate a Spotify playlist containing the Billboard Hot 100 songs from any chosen date (since 1958). It scrapes the Billboard charts, searches for each song on Spotify, and creates a private playlist with the results.
 ## Features
 - Scrapes Billboard charts for any valid date
 - Creates a private Spotify playlist
